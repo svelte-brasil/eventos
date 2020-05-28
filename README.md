@@ -13,6 +13,9 @@
   <a href="https://github.com/svelte-brasil/criando-sua-biblioteca-svelte">Criado sua biblioteca Svelte</a>
 </p>
 
+<br />
+<br />
+
 Repositório responsável por apresentar a lista de eventos de Svelte no Brasil.
 
 Se você começou um novo meetup ou evento sobre Svelte manda uma issue para nós. Se ainda não começou mas tem interesse, entre em contato conosco através do nosso [telegram](https://t.me/sveltebrasil).
