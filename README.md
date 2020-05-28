@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="logo.jpg" alt="Svelte Brasil" />
+<img src="logo.jpg" alt="Svelte Brasil" width="300" />
 
 <h1>Svelte Brasil Eventos</h1>
 
