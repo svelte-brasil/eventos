@@ -30,7 +30,7 @@ Tem interesse em fazer alguma melhoria nesse repositório? Fique a vontade para 
 
 - [Svelte Meetup Brasil](https://www.youtube.com/watch?v=8l2fcc1A-18) - Online
 
-## Comunidade
+## Contatos
 
 - [Twitter](https://twitter.com/sveltebrasil)
 - [Grupo Telegram](https://t.me/sveltebrasil)
