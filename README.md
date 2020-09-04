@@ -28,7 +28,8 @@ Tem interesse em fazer alguma melhoria nesse repositório? Fique a vontade para 
 
 ## Últimos eventos
 
-- [Svelte Meetup Brasil](https://www.youtube.com/watch?v=8l2fcc1A-18) - Online
+- [1º Meetup Svelte Brasil](https://www.youtube.com/watch?v=8l2fcc1A-18) - Online
+- [2º Meetup Svelte Brasil](https://www.youtube.com/watch?v=_izeIDmeq7g) - Online
 
 ## Contatos
 
